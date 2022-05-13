@@ -1,1 +1,9 @@
-
+body{
+  background-color: #b8fff7;
+  color: #ffd97a;
+  text-shadow: 1px 1px #f4a261;
+  font-family: 'Patrick Hand', cursive;
+}
+img {
+  border: 2px solid #f4a261;
+}
